@@ -107,4 +107,31 @@ https://coin.dance/
 
 </ul>
 
+## Private keys
+
+<ul>
+ 
+ <li>
+  Mnemonic Code Converter - Convert Mnemonic codes into private keys
+  https://iancoleman.io/bip39/
+ </li>
+ 
+</ul>
+
+## Smart Contract development
+<ul>
+ <li>
+  Remix - Smart contract compiler and deployer
+  https://remix.ethereum.org/
+ </li>
+ 
+ <li>
+ Ganache - Run an ethereum blockchain on your localhost
+ https://www.trufflesuite.com/ganache
+ </li>
+ 
+ <li>
+ </li>
+</ul>
+
 Think we are missing an important link for the Blockchain industry?  Let us know at lorne @ lornestar d0t com
