@@ -135,6 +135,11 @@ https://coin.dance/
   https://github.com/ethereum/web3.js/
  </li>
  
+ <li>
+ OpenZepplin - Great list of contracts to use as templates
+ https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts
+ </li>
+ 
  
 </ul>
 
