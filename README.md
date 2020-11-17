@@ -5,7 +5,7 @@
 <ul>
 
 <li>
-Coindesk <br>
+Coindesk
 https://www.coindesk.com/
 </li>
 
@@ -40,12 +40,12 @@ https://www.exodus.io/
 <ul>
 
 <li>
-SHA256 Encryption tool <br>
+SHA256 Encryption tool 
 https://anyhash.com/sha256?hello
 </li>
 
 <li>
-ABI Encoder for Smart Contract Development<br>
+ABI Encoder for Smart Contract Development
 https://abi.hashex.org/#
 </li>
 </ul>
@@ -81,27 +81,21 @@ https://www.coingecko.com/en
 
 <li>
  Breadcrumbs - Ethereum Investigation tool
-<br>
 https://www.breadcrumbs.app/
 </li>
 
 <li>
   Etherscan - Ethereum Explorer
-  <br>
 https://etherscan.io
 </li>
 
 <li>
   Blockchain.Info - Bitcoin Explorer & Charts on Bitcoin network stats
-  <br>
-https://www.blockchain.com/explorer
-  <br>
-  https://www.blockchain.com/charts
+https://www.blockchain.com/explorer &  https://www.blockchain.com/charts
 </li>
 
 <li>
   CoinDance - Details of Bitcoin Forks
-  <br>
 https://coin.dance/
 </li>
 
