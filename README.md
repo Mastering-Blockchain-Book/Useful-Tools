@@ -15,24 +15,30 @@ https://www.coindesk.com/
 <ul>
 
 <li>
-MetaMask - Ethereum Wallet (Chrome/Firefox Extension)
+MetaMask - Chrome/Firefox Extension (Ethereum only)
 https://metamask.io/
 </li>
 
 <li>
-Ledger - Hardware Wallet (Main cryptocurrencies)
+Ledger - Hardware Wallet (Most cryptocurrencies)
 https://www.ledger.com/
 </li>
 
 <li>
- Trezor - Hardware Wallet (Main cryptocurrencies)
+ Trezor - Hardware Wallet (Most cryptocurrencies)
 https://trezor.io/
 </li>
 
 <li>
-Exodus - Desktop Wallet (Main cryptocurrencies)
+Exodus - Desktop Wallet (Most cryptocurrencies)
 https://www.exodus.io/
 </li>
+
+<li>
+ MyEtherWallet - Tools to manage self custody wallet (Ethereum only)
+https://www.myetherwallet.com/ 
+</li>
+
 
 </ul>
 
@@ -125,6 +131,8 @@ https://coin.dance/
  </li>
  
  <li>
+  Web3.js - Ethereum Javascript API
+  https://github.com/ethereum/web3.js/
  </li>
 </ul>
 
