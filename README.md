@@ -134,6 +134,8 @@ https://coin.dance/
   Web3.js - Ethereum Javascript API
   https://github.com/ethereum/web3.js/
  </li>
+ 
+ 
 </ul>
 
 Think we are missing an important link for the Blockchain industry?  Let us know at lorne @ lornestar d0t com
