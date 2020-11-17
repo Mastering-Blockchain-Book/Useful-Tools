@@ -50,8 +50,33 @@ https://abi.hashex.org/#
 </li>
 </ul>
 
+## Crypto Trading tools
+<ul>
+ 
+ <li>
+ Blockfolio - Mobile app to watch your porfolio in real-time
+ https://blockfolio.com/
+ </li>
+ 
+ <li>
+ Cryptowatch - Website to watch crypto markets in real-time
+ https://cryptowat.ch/
+ </li>
+ 
+ <li>
+ Coingecko - Aggregates crypto market prices into one asset price
+https://www.coingecko.com/en
+ </li>
+ 
+ <li>
+ Crypto Fear & greed index - shows market sentiment
+ https://alternative.me/crypto/fear-and-greed-index/
+ </li>
+ 
+</ul>
 
-## Analytics
+
+## Blockchain Analytics
 <ul>
 
 <li>
