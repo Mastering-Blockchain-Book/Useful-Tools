@@ -79,6 +79,11 @@ https://www.coingecko.com/en
  https://alternative.me/crypto/fear-and-greed-index/
  </li>
  
+ <li>
+ CryptoQuant - shows real-time cryptocurrency flows in/out of exchanges
+ https://cryptoquant.com/
+ </li>
+ 
 </ul>
 
 
